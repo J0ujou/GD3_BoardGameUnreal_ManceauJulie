@@ -5,10 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Template_Default.umap",
-				"C:/Program Files/Epic Games/UE_5.8/Engine/Content/Maps/Templates/Template_Default.umap",
 				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Map/Template_Default.umap",
-				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Case.uasset"
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Case.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Board.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Material/M_Board.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Controller.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_Dice.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Material/M_Bonus.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Material/M_Malus.uasset",
+				"C:/Users/julie/Documents/GitHub/GD3_BoardGameUnreal_ManceauJulie/BoardGame_UE_JM/Content/Template_Default.umap",
+				"C:/Program Files/Epic Games/UE_5.8/Engine/Content/Maps/Templates/Template_Default.umap"
 			]
 		}
 	]
